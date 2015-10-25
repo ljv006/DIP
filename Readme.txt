@@ -1,0 +1,1 @@
+This program can scale and quantize a given picture. You should first put the picture in the folder where you put the cpp file. You can enter s1 or s2 to scale the picture in different ways. The destination picture will also be stored in the folder you put the cpp file.
